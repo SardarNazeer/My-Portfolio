@@ -8,6 +8,7 @@ import Footer from './Components/Footer/Footer';
 import Navbar from './Components/Navbar/Navbar';
 import Skills from './Components/Skills/Skills';
 import Work from './Components/Work/Work';
+import BlurBlob from './BlurBlob';
 
 function App() {
 
